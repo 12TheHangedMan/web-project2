@@ -1,4 +1,57 @@
-html {
-  border: 3px solid red;
-  height: 100vh;
+body {
+  padding: 2% 10% 0 10%;
+}
+
+h1 {
+  font-size: 200%;
+  background-color: RGBA(188, 0, 0, 0.7);
+  text-align: center;
+  border-radius: 16px;
+}
+
+.coke {
+  padding-left: auto;
+  padding-right: auto;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  border: 3px solid #73ad21;
+}
+
+hr {
+  height: 10px;
+  background-color: rgba(180, 60, 60, 0.8);
+}
+
+a {
+  color: black;
+  margin-left: 4%;
+}
+
+a:visited {
+  color: gray;
+}
+
+li {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+p {
+  font-size: 24px;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+.List1 {
+  background-color: red;
+}
+.List2 {
+  background-color: green;
+}
+.List3 {
+  background-color: blue;
 }
